@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("this is for testing");
         System.out.println("this is for sample");
-        System.out.println("anil");
+        System.out.println("normal");
 
     }
 }
